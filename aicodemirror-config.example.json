@@ -1,0 +1,5 @@
+{
+  "cookies": "your_cookie_string_here",
+  "creditThreshold": 1000,
+  "autoResetEnabled": true
+}

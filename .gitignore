@@ -1,0 +1,31 @@
+# Claude Code 配置目录
+.claude/
+
+# 敏感配置文件 - 包含 Cookie 等认证信息
+# 请使用 aicodemirror-config.example.json 作为模板
+aicodemirror-config.json
+
+# 本地配置
+*.local.json
+
+# 环境变量
+.env
+.env.local
+
+# 用户数据
+*.log
+*.cache
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node modules (如果将来添加依赖)
+node_modules/
